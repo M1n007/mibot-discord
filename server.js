@@ -1,3 +1,9 @@
+/* 
+
+created by M1n007, 16/02/2019
+
+*/
+
 const Discord = require("discord.js");
 const request = require("request");
 const mibot = new Discord.Client();
